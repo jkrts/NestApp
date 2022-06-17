@@ -1,0 +1,15 @@
+C:\Users\jroberts\Documents\dev\csharp\NestApp\bin\Debug\net6.0\NestApp.exe
+C:\Users\jroberts\Documents\dev\csharp\NestApp\bin\Debug\net6.0\NestApp.deps.json
+C:\Users\jroberts\Documents\dev\csharp\NestApp\bin\Debug\net6.0\NestApp.runtimeconfig.json
+C:\Users\jroberts\Documents\dev\csharp\NestApp\bin\Debug\net6.0\NestApp.dll
+C:\Users\jroberts\Documents\dev\csharp\NestApp\bin\Debug\net6.0\NestApp.pdb
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\NestApp.csproj.AssemblyReference.cache
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\NestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\NestApp.AssemblyInfoInputs.cache
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\NestApp.AssemblyInfo.cs
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\NestApp.csproj.CoreCompileInputs.cache
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\NestApp.dll
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\refint\NestApp.dll
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\NestApp.pdb
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\NestApp.genruntimeconfig.cache
+C:\Users\jroberts\Documents\dev\csharp\NestApp\obj\Debug\net6.0\ref\NestApp.dll
